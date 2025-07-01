@@ -83,3 +83,5 @@ class UserForm extends Component<{}, UserFormState> {
 - English B2
 - Russian C1
 - Ukrainian C2
+
+![rsschool-logo](/images.png)
